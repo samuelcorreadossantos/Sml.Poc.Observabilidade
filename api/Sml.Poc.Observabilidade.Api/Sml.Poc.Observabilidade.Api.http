@@ -1,0 +1,6 @@
+@Sml.Poc.Observabilidade.Api_HostAddress = http://localhost:5012
+
+GET {{Sml.Poc.Observabilidade.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

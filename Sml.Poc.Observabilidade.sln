@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{92AF1A39-68D6-4BFC-9516-6DBF7B803DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sml.Poc.Observabilidade.Api", "api\Sml.Poc.Observabilidade.Api\Sml.Poc.Observabilidade.Api.csproj", "{4FB4B3CD-A4DF-4199-88E5-8E0EBFD070D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB4B3CD-A4DF-4199-88E5-8E0EBFD070D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB4B3CD-A4DF-4199-88E5-8E0EBFD070D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB4B3CD-A4DF-4199-88E5-8E0EBFD070D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB4B3CD-A4DF-4199-88E5-8E0EBFD070D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4FB4B3CD-A4DF-4199-88E5-8E0EBFD070D3} = {92AF1A39-68D6-4BFC-9516-6DBF7B803DDF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E90D497-A927-4CE0-BFCE-16CADC09D7FB}
+	EndGlobalSection
+EndGlobal
